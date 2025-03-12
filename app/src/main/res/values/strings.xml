@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kuweni</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="catsubcat_name">CatSubCat Name</string>
+    <string name="find_your_outfit">Find Your Outfit</string>
+    <string name="sample_price">$00.00</string>
+    <string name="product_name">Product Name</string>
+</resources>
